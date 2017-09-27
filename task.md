@@ -5,7 +5,7 @@ Kolibree Toothbrush
 **Kolibree Toothbrush**
 
 ![Image of Kolibree](https://d2knexjrj9aoma.cloudfront.net/main/global/nav_kolibree-logo.png)
-![Image of Kolibreebrush](https://media.indiatimes.in/media/content/2014/Jan/kolibree_toothbrush_main_article_1_1388994075_540x540.jpg)
+![Image of Kolibreebrush](https://d2knexjrj9aoma.cloudfront.net/main/index/special-discount/Carrousel-06-1600-700.jpg)
 
 
 1.	What kind of data is this device collecting? What sensors are used? Where is the data being stored and who has ownership over the data? Is the data available to the user, and if so, in what format? 
