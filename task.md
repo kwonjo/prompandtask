@@ -14,6 +14,7 @@ Kolibree collects three kinds of data which are personal data, web tracking data
 3D motion sensors are detecting the dental structure and sending it to the smartphones by Bluetooth. The ownership is over Kolibree and offered to the users. It is an open platform allowing third parties such as your dentist to obtain the customers’ information if they give consent. The information is offered in the Koliree application. 
 
 2.	How far can you trace the path of the data? How far can you trace the physical development of the device, its materials and manufacture?
+The pdf attachment shows the path.
 
 3. Task: Replicate and Replace, Critique
 
